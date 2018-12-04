@@ -16,7 +16,7 @@ import java.util.List;
 public class TableView extends RecyclerView {
 
     public Boolean tv_headersOnTop;
-
+    public Boolean tv_OneAmong;
     public Boolean tv_scrollingEnabled;
 
     public int tv_header_borders_color;
